@@ -47,6 +47,6 @@ def test_calculate_crew_size_returns_None_if_empty():
     Test that calculate_crew_size returns the expected None value when the string is empty.
     """
     input_value = ""
-    actual_result = calculate_crew_size(input_value)
+    actual_result = calculate_crew_size(input_value))
     expected_result = None
     actual_result == expected_result
