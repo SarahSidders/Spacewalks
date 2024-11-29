@@ -15,3 +15,7 @@ abstract: >-
   generate visualisations and statistical summaries of
   NASA's extravehicular activity datasets.
 license: MIT
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.137891
+  date-released: 2024-11-29
