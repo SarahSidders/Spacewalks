@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Spacewalks
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sarah
+    family-names: Sidders
+abstract: >-
+  Spacewalks is a Python analysis tool for researchers to
+  generate visualisations and statistical summaries of
+  NASA's extravehicular activity datasets.
+license: MIT
