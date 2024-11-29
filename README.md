@@ -24,7 +24,7 @@ installed. You will also need the following libraries (minimum versions in brack
 
 ## Installations
 
-To use this repository please go to: github_url
+To use this repository please go to: [github_url](https://github.com/SarahSidders/Spacewalks)
 
 Follow the instructions on github on how to clone the project.
 
@@ -35,4 +35,4 @@ To test run: pytest
 
 ## Usage instructions
 
-Example
+Example TBC
